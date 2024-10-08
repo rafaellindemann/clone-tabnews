@@ -5,6 +5,7 @@ function Home() {
     <h2>Página home de alguma coisa.</h2>
     <p>codespaces público</p>
     <p>Testando publicação de serviço com next</p>
+    <p>Testando timeline</p>
   </div>
   
 )
